@@ -1,10 +1,9 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @Saadibrahim_900
-//Instagram: saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @saad143ss
-//WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
+//YouTube: @Callisto-god
+//Instagram: tf.joe7
+//Telegram: t.me/secondtate
+//GitHub: @zeuesser
+//WhatsApp: +918891667734
 
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -197,7 +196,7 @@ await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot By ${ownername}`).catch(_ => _)
+            XeonBotInc.updateProfileStatus(`24/7 Online Bot By 𝕮𝖆𝖑𝖑𝖎𝖘𝖙𝖔 `).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
             return XeonBotInc.updateBlockStatus(m.sender, 'block')
@@ -949,12 +948,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'script':
             case 'scriptbot':
                 XeonBotInc.sendMessage(m.chat, {
-                    text: `*Script:* script 😒 wa.me923156157942`,
+                    text: `*Script:* script ➿ wa.me/+918891667734`,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @saadibrahim_900`,
+                            body: `SCRIPT OF ${botname} is not Available `,
                             thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
