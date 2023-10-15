@@ -1,10 +1,9 @@
 //base by DGXeon (Xeon Bot Inc.)
-//YouTube: @saadibrahim_900
-//Instagram: Saadibrahim900
-//Telegram: t.me/saad143s
-//GitHub: @saad143ss
-//WhatsApp: +923156157942
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@saadibrahim_900
+//YouTube: @Callisto-god
+//Instagram: tf.joe7
+//Telegram: t.me/secondtate
+//GitHub: @zeuesser
+//WhatsApp: +9188916677340
 
 require('./settings')
 const pino = require('pino')
